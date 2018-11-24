@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Warcraft3-Soundboard.iml" filepath="$PROJECT_DIR$/Warcraft3-Soundboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soundboard_template/soundboard_template.iml" filepath="$PROJECT_DIR$/soundboard_template/soundboard_template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Soundboard-Template/soundboard-template/soundboardtemplate.iml" filepath="$PROJECT_DIR$/Soundboard-Template/soundboard-template/soundboardtemplate.iml" />
     </modules>
   </component>
 </project>

@@ -1,1 +1,2 @@
-include ':app'
+include ':app', ':soundboardtemplate'
+project(':soundboardtemplate').projectDir = new File('Soundboard-Template/soundboard-template')
