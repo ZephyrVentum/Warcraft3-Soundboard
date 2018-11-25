@@ -17,13 +17,27 @@ android {
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
-        debug{
+        debug {
+            applicationIdSuffix ".debug"
             debuggable true
         }
         release {
             debuggable false
             minifyEnabled false
+            resValue "string", "admob_app_id", "ca-app-pub-9581992838845527~2800592469"
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    bundle {
+        language {
+            enableSplit = false
+        }
+        density {
+            enableSplit = true
+        }
+        abi {
+            enableSplit = true
         }
     }
     dataBinding {

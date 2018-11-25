@@ -1,3 +1,104 @@
 <resources>
-    <string name="app_name">Warcraft3-Soundboard</string>
+    <string name="app_name">WC3 Soundboard</string>
+    <string name="admob_banner_unit_id">ca-app-pub-9581992838845527/2225877399</string>
+    <string name="admob_interstitial_unit_id">ca-app-pub-9581992838845527/2086276590</string>
+    <string name="share_text">Look at this fun! The best soundboard ever!\nhttps://github.com/ZephyrVentum/Soundboard-Template</string>
+    <string name="rate_us_market">market://details?id=com.zephyr.ventum</string>
+
+    <!-- alliance -->
+    <string name="alliance_category">Альянс</string>
+    <string name="peasantbuildingcomplete1">peasantbuildingcomplete1</string>
+    <string name="peasantcannotbuildthere1">peasantcannotbuildthere1</string>
+    <string name="peasantdeath">peasantdeath</string>
+    <string name="peasantpissed1">peasantpissed1</string>
+    <string name="peasantpissed2">peasantpissed2</string>
+    <string name="peasantpissed3">peasantpissed3</string>
+    <string name="peasantpissed4">peasantpissed4</string>
+    <string name="peasantpissed5">peasantpissed5</string>
+    <string name="peasantready1">peasantready1</string>
+    <string name="peasantwarcry1">peasantwarcry1</string>
+    <string name="peasantwhat1">peasantwhat1</string>
+    <string name="peasantwhat2">peasantwhat2</string>
+    <string name="peasantwhat3">peasantwhat3</string>
+    <string name="peasantwhat4">peasantwhat4</string>
+    <string name="peasantyes1">peasantyes1</string>
+    <string name="peasantyes2">peasantyes2</string>
+    <string name="peasantyes3">peasantyes3</string>
+    <string name="peasantyes4">peasantyes4</string>
+    <string name="peasantyesattack1">peasantyesattack1</string>
+    <string name="peasantyesattack2">peasantyesattack2</string>
+    <string name="peasantyesattack3">peasantyesattack3</string>
+    <string name="peasantyesattack4">peasantyesattack4</string>
+
+    <string name="footmandeath">footmandeath</string>
+    <string name="footmanpissed1">footmanpissed1</string>
+    <string name="footmanpissed2">footmanpissed2</string>
+    <string name="footmanpissed3">footmanpissed3</string>
+    <string name="footmanpissed4">footmanpissed4</string>
+    <string name="footmanready1">footmanready1</string>
+    <string name="footmanwarcry1">footmanwarcry1</string>
+    <string name="footmanwhat1">footmanwhat1</string>
+    <string name="footmanwhat2">footmanwhat2</string>
+    <string name="footmanwhat3">footmanwhat3</string>
+    <string name="footmanwhat4">footmanwhat4</string>
+    <string name="footmanyes1">footmanyes1</string>
+    <string name="footmanyes2">footmanyes2</string>
+    <string name="footmanyes3">footmanyes3</string>
+    <string name="footmanyes4">footmanyes4</string>
+    <string name="footmanyesattack1">footmanyesattack1</string>
+    <string name="footmanyesattack2">footmanyesattack2</string>
+    <string name="footmanyesattack3">footmanyesattack3</string>
+
+    <string name="riflemanattack1">riflemanattack1</string>
+    <string name="riflemanattack2">riflemanattack2</string>
+    <string name="riflemandeath">riflemandeath</string>
+    <string name="riflemanpissed1">riflemanpissed1</string>
+    <string name="riflemanpissed2">riflemanpissed2</string>
+    <string name="riflemanpissed3">riflemanpissed3</string>
+    <string name="riflemanpissed4">riflemanpissed4</string>
+    <string name="riflemanpissed5">riflemanpissed5</string>
+    <string name="riflemanpissed6">riflemanpissed6</string>
+    <string name="riflemanpissed7">riflemanpissed7</string>
+    <string name="riflemanpissed8">riflemanpissed8</string>
+    <string name="riflemanready1">riflemanready1</string>
+    <string name="riflemanwarcry1">riflemanwarcry1</string>
+    <string name="riflemanwhat1">riflemanwhat1</string>
+    <string name="riflemanwhat2">riflemanwhat2</string>
+    <string name="riflemanwhat3">riflemanwhat3</string>
+    <string name="riflemanwhat4">riflemanwhat4</string>
+    <string name="riflemanyes1">riflemanyes1</string>
+    <string name="riflemanyes2">riflemanyes2</string>
+    <string name="riflemanyes3">riflemanyes3</string>
+    <string name="riflemanyes4">riflemanyes4</string>
+    <string name="riflemanyesattack1">riflemanyesattack1</string>
+    <string name="riflemanyesattack2">riflemanyesattack2</string>
+    <string name="riflemanyesattack3">riflemanyesattack3</string>
+    <string name="riflemanyesattack4">riflemanyesattack4</string>
+
+    <string name="knightdeath">knightdeath</string>
+    <string name="knightpissed1">knightpissed1</string>
+    <string name="knightpissed2">knightpissed2</string>
+    <string name="knightpissed3">knightpissed3</string>
+    <string name="knightpissed4">knightpissed4</string>
+    <string name="knightpissed5">knightpissed5</string>
+    <string name="knightpissed6">knightpissed6</string>
+    <string name="knightready1">knightready1</string>
+    <string name="knightwarcry1">knightwarcry1</string>
+    <string name="knightwhat1">knightwhat1</string>
+    <string name="knightwhat2">knightwhat2</string>
+    <string name="knightwhat3">knightwhat3</string>
+    <string name="knightwhat4">knightwhat4</string>
+    <string name="knightyes1">knightyes1</string>
+    <string name="knightyes2">knightyes2</string>
+    <string name="knightyes3">knightyes3</string>
+    <string name="knightyes4">knightyes4</string>
+    <string name="knightyesattack1">knightyesattack1</string>
+    <string name="knightyesattack2">knightyesattack2</string>
+    <string name="knightyesattack3">knightyesattack3</string>
+    <!-- horde -->
+    <string name="horde_category">Орда</string>
+    <!-- undead -->
+    <string name="undead_category">Нежить</string>
+    <!-- night elves -->
+    <string name="night_elves_category">Ночные Эльфы</string>
 </resources>
