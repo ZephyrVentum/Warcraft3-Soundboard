@@ -3,10 +3,13 @@ package ventum.zephyr.wc3soundboard
 import ventum.zephyr.soundboardtemplate.model.SoundItems
 import ventum.zephyr.soundboardtemplate.model.SoundboardCategory
 import ventum.zephyr.soundboardtemplate.ui.SoundboardActivity
+import ventum.zephyr.wc3soundboard.alliance.AllianceObject.createAlliance
+import ventum.zephyr.wc3soundboard.alliance.ArchmageObject.createArchmage
 import ventum.zephyr.wc3soundboard.alliance.ArthasObject.createArthas
 import ventum.zephyr.wc3soundboard.alliance.FootmanObject.createFootmans
 import ventum.zephyr.wc3soundboard.alliance.GryphonObject.createGryphon
 import ventum.zephyr.wc3soundboard.alliance.GyrocopterObject.createGyrocopter
+import ventum.zephyr.wc3soundboard.alliance.HawkObject.createHawk
 import ventum.zephyr.wc3soundboard.alliance.JainaObject.createJaina
 import ventum.zephyr.wc3soundboard.alliance.KnightObject.createKnights
 import ventum.zephyr.wc3soundboard.alliance.MortarObject.createMortar
@@ -15,6 +18,7 @@ import ventum.zephyr.wc3soundboard.alliance.PeasantObject.createPeasants
 import ventum.zephyr.wc3soundboard.alliance.PriestObject.createPriest
 import ventum.zephyr.wc3soundboard.alliance.RiflemanObject.createRiflemans
 import ventum.zephyr.wc3soundboard.alliance.SorceressObject.createSorceress
+import ventum.zephyr.wc3soundboard.alliance.UtherObject.createUther
 import java.util.*
 
 class StartActivity : SoundboardActivity() {
@@ -29,6 +33,7 @@ class StartActivity : SoundboardActivity() {
 
     private fun createAllianceCategory() =
         SoundboardCategory(getString(R.string.alliance_category), SoundItems().apply {
+            addAll(createAlliance())
             addAll(createPeasants())
             addAll(createFootmans())
             addAll(createRiflemans())
@@ -38,8 +43,11 @@ class StartActivity : SoundboardActivity() {
             addAll(createMortar())
             addAll(createGyrocopter())
             addAll(createGryphon())
+            addAll(createHawk())
             addAll(createMuradin())
             addAll(createJaina())
+            addAll(createUther())
+            addAll(createArchmage())
             addAll(createArthas())
         })
 
