@@ -9,7 +9,7 @@ object BlademasterObject {
 
     val drawables = intArrayOf(
         R.drawable.blademaster,
-        R.drawable.blademaster
+        R.drawable.blademaster2
     )
 
     fun createBlademaster() = SoundItems().apply {
