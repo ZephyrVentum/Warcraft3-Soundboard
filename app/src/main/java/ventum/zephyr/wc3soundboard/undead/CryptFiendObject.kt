@@ -3,7 +3,6 @@ package ventum.zephyr.wc3soundboard.undead
 import ventum.zephyr.soundboardtemplate.model.SoundItem
 import ventum.zephyr.soundboardtemplate.model.SoundItems
 import ventum.zephyr.wc3soundboard.R
-import ventum.zephyr.wc3soundboard.StartActivity.Companion.getRandomFrom
 
 object CryptFiendObject {
 
