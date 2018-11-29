@@ -36,11 +36,18 @@ import ventum.zephyr.wc3soundboard.horde.WitchDoctorObject.createWitchDoctor
 import ventum.zephyr.wc3soundboard.horde.WolfriderObject.createWolfrider
 import ventum.zephyr.wc3soundboard.horde.WyvernObject.createWyvern
 import ventum.zephyr.wc3soundboard.nightelf.ArcherObject.createArcher
+import ventum.zephyr.wc3soundboard.nightelf.ChimaeraObject.createChimaera
 import ventum.zephyr.wc3soundboard.nightelf.DruidObject.createDruid
 import ventum.zephyr.wc3soundboard.nightelf.DryadObject.createDryad
+import ventum.zephyr.wc3soundboard.nightelf.FurionObject.createFurion
 import ventum.zephyr.wc3soundboard.nightelf.HippogriffObject.createHippogriff
 import ventum.zephyr.wc3soundboard.nightelf.HuntressObject.createHuntress
+import ventum.zephyr.wc3soundboard.nightelf.IllidanObject.createIllidan
+import ventum.zephyr.wc3soundboard.nightelf.KeeperObject.createKeeper
+import ventum.zephyr.wc3soundboard.nightelf.NightElfObject.createNightElf
+import ventum.zephyr.wc3soundboard.nightelf.ShandrisObject.createShandris
 import ventum.zephyr.wc3soundboard.nightelf.TalonObject.createTalon
+import ventum.zephyr.wc3soundboard.nightelf.TyrandeObject.createTyrande
 import ventum.zephyr.wc3soundboard.nightelf.WispObject.createWisp
 import ventum.zephyr.wc3soundboard.undead.AbominationObject.createAbomination
 import ventum.zephyr.wc3soundboard.undead.AcolyteObject.createAcolyte
@@ -130,6 +137,7 @@ class StartActivity : SoundboardActivity() {
     })
 
     private fun createNightElfCategory() = SoundboardCategory(getString(R.string.night_elves_category), SoundItems().apply {
+        addAll(createNightElf())
         addAll(createWisp())
         addAll(createArcher())
         addAll(createHuntress())
@@ -138,6 +146,12 @@ class StartActivity : SoundboardActivity() {
         addAll(createDruid())
         addAll(createTalon())
         addAll(createHippogriff())
+        addAll(createChimaera())
+        addAll(createShandris())
+        addAll(createIllidan())
+        addAll(createFurion())
+        addAll(createTyrande())
+        addAll(createKeeper())
     })
 
     override fun getBlurRadius() = 10
