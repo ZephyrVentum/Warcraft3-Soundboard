@@ -136,23 +136,24 @@ class StartActivity : SoundboardActivity() {
         addAll(createLich())
     })
 
-    private fun createNightElfCategory() = SoundboardCategory(getString(R.string.night_elves_category), SoundItems().apply {
-        addAll(createNightElf())
-        addAll(createWisp())
-        addAll(createArcher())
-        addAll(createHuntress())
-        addAll(createDryad())
-        addAll(createDryad())
-        addAll(createDruid())
-        addAll(createTalon())
-        addAll(createHippogriff())
-        addAll(createChimaera())
-        addAll(createShandris())
-        addAll(createIllidan())
-        addAll(createFurion())
-        addAll(createTyrande())
-        addAll(createKeeper())
-    })
+    private fun createNightElfCategory() =
+        SoundboardCategory(getString(R.string.night_elves_category), SoundItems().apply {
+            addAll(createNightElf())
+            addAll(createWisp())
+            addAll(createArcher())
+            addAll(createHuntress())
+            addAll(createDryad())
+            addAll(createDryad())
+            addAll(createDruid())
+            addAll(createTalon())
+            addAll(createHippogriff())
+            addAll(createChimaera())
+            addAll(createShandris())
+            addAll(createIllidan())
+            addAll(createFurion())
+            addAll(createTyrande())
+            addAll(createKeeper())
+        })
 
     override fun getBlurRadius() = 10
 }
