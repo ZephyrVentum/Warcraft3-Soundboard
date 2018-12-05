@@ -35,6 +35,7 @@ import ventum.zephyr.wc3soundboard.horde.ThrallObject.createThrall
 import ventum.zephyr.wc3soundboard.horde.WitchDoctorObject.createWitchDoctor
 import ventum.zephyr.wc3soundboard.horde.WolfriderObject.createWolfrider
 import ventum.zephyr.wc3soundboard.horde.WyvernObject.createWyvern
+import ventum.zephyr.wc3soundboard.neutral.BanditObject.createBandit
 import ventum.zephyr.wc3soundboard.nightelf.ArcherObject.createArcher
 import ventum.zephyr.wc3soundboard.nightelf.ChimaeraObject.createChimaera
 import ventum.zephyr.wc3soundboard.nightelf.DruidObject.createDruid
@@ -77,6 +78,7 @@ class StartActivity : SoundboardActivity() {
         add(createHordeCategory())
         add(createUndeadCategory())
         add(createNightElfCategory())
+        add(createNeutralCategory())
     }
 
     private fun createAllianceCategory() =
@@ -155,5 +157,11 @@ class StartActivity : SoundboardActivity() {
             addAll(createKeeper())
         })
 
-    override fun getBlurRadius() = 10
+
+    private fun createNeutralCategory() =
+        SoundboardCategory(getString(R.string.neutral_category), SoundItems().apply {
+            addAll(createBandit())
+        })
+
+    override fun getBlurRadius() = 8
 }
