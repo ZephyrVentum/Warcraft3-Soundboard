@@ -3,7 +3,6 @@ package ventum.zephyr.wc3soundboard.nightelf
 import ventum.zephyr.soundboardtemplate.model.SoundItem
 import ventum.zephyr.soundboardtemplate.model.SoundItems
 import ventum.zephyr.wc3soundboard.R
-import ventum.zephyr.wc3soundboard.StartActivity.Companion.getRandomFrom
 
 object HuntressObject {
 
@@ -14,6 +13,7 @@ object HuntressObject {
 
     fun createHuntress() = SoundItems().apply {
         var i = 1
+        add(SoundItem(drawables[i++ % drawables.size], R.raw.sentineldeath1, R.string.sentineldeath1))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.huntresspissed1, R.string.huntresspissed1))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.huntresspissed2, R.string.huntresspissed2))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.huntresspissed3, R.string.huntresspissed3))
