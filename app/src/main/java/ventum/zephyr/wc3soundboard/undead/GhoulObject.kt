@@ -28,10 +28,8 @@ object GhoulObject {
         add(SoundItem(drawables[i++ % drawables.size], R.raw.ghoulyes1, R.string.ghoulyes1))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.ghoulyes2, R.string.ghoulyes2))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.ghoulyes3, R.string.ghoulyes3))
-        add(SoundItem(drawables[i++ % drawables.size], R.raw.ghoulyes4, R.string.ghoulyes4))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.ghoulyesattack1, R.string.ghoulyesattack1))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.ghoulyesattack2, R.string.ghoulyesattack2))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.ghoulyesattack3, R.string.ghoulyesattack3))
-        add(SoundItem(drawables[i++ % drawables.size], R.raw.ghoulyesattack4, R.string.ghoulyesattack4))
     }
 }
