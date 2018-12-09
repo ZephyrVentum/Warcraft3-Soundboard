@@ -36,7 +36,6 @@ object MuradinObject {
         add(SoundItem(drawables[i++ % drawables.size], R.raw.muradinyesattack1, R.string.muradinyesattack1))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.muradinyesattack2, R.string.muradinyesattack2))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.muradinyesattack3, R.string.muradinyesattack3))
-        add(SoundItem(drawables[i++ % drawables.size], R.raw.heromountainkingattack1, R.string.heromountainkingattack1))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.heromountainkingdeath, R.string.heromountainkingdeath))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.heromountainkingpissed1, R.string.heromountainkingpissed1))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.heromountainkingpissed2, R.string.heromountainkingpissed2))
