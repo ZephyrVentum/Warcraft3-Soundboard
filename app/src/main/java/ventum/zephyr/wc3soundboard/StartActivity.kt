@@ -147,7 +147,6 @@ class StartActivity : SoundboardActivity() {
             addAll(createArcher())
             addAll(createHuntress())
             addAll(createDryad())
-            addAll(createDryad())
             addAll(createDruid())
             addAll(createTalon())
             addAll(createHippogriff())
