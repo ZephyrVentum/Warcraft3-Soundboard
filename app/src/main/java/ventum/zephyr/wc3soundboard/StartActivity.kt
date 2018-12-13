@@ -38,6 +38,7 @@ import ventum.zephyr.wc3soundboard.horde.WyvernObject.createWyvern
 import ventum.zephyr.wc3soundboard.neutral.BanditObject.createBandit
 import ventum.zephyr.wc3soundboard.neutral.BristlbackObject.createBristlback
 import ventum.zephyr.wc3soundboard.neutral.CentaurObject.createCentaur
+import ventum.zephyr.wc3soundboard.neutral.MurlocObject.createMurloc
 import ventum.zephyr.wc3soundboard.nightelf.ArcherObject.createArcher
 import ventum.zephyr.wc3soundboard.nightelf.ChimaeraObject.createChimaera
 import ventum.zephyr.wc3soundboard.nightelf.DruidObject.createDruid
@@ -164,6 +165,7 @@ class StartActivity : SoundboardActivity() {
             addAll(createBandit())
             addAll(createBristlback())
             addAll(createCentaur())
+            addAll(createMurloc())
         })
 
     override fun getBlurRadius() = 8
