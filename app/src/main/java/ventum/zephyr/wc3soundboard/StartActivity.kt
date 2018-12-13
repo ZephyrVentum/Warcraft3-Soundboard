@@ -103,7 +103,7 @@ class StartActivity : SoundboardActivity() {
             addAll(createUther())
             addAll(createArchmage())
             addAll(createArthas())
-        })
+        }, getString(R.string.alliance_banner))
 
     private fun createHordeCategory() = SoundboardCategory(getString(R.string.horde_category), SoundItems().apply {
         addAll(createHorde())
@@ -121,7 +121,7 @@ class StartActivity : SoundboardActivity() {
         addAll(createFarSeer())
         addAll(createTaurenHero())
         addAll(createOgre())
-    })
+    }, getString(R.string.horde_banner))
 
     private fun createUndeadCategory() = SoundboardCategory(getString(R.string.undead_category), SoundItems().apply {
         addAll(createUndead())
@@ -139,7 +139,7 @@ class StartActivity : SoundboardActivity() {
         addAll(createKelthuzad())
         addAll(createDreadLord())
         addAll(createLich())
-    })
+    }, getString(R.string.undead_banner))
 
     private fun createNightElfCategory() =
         SoundboardCategory(getString(R.string.night_elves_category), SoundItems().apply {
@@ -157,7 +157,7 @@ class StartActivity : SoundboardActivity() {
             addAll(createFurion())
             addAll(createTyrande())
             addAll(createKeeper())
-        })
+        }, getString(R.string.night_elf_banner))
 
 
     private fun createNeutralCategory() =
@@ -166,7 +166,7 @@ class StartActivity : SoundboardActivity() {
             addAll(createBristlback())
             addAll(createCentaur())
             addAll(createMurloc())
-        })
+        }, getString(R.string.neutral_banner))
 
     override fun getBlurRadius() = 8
 }

@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">Warcraft III Soundboard</string>
     <string name="app_label">WC3 Soundboard</string>
-    <string name="admob_banner_unit_id">ca-app-pub-9581992838845527/2225877399</string>
     <string name="admob_interstitial_unit_id">ca-app-pub-9581992838845527/2086276590</string>
     <string name="share_text">Look at this fun! The best soundboard ever!\nhttps://play.google.com/store/apps/details?id=ventum.zephyr.wc3soundboard</string>
     <string name="rate_us_market">market://details?id=ventum.zephyr.wc3soundboard</string>
+    <string name="alliance_banner">ca-app-pub-9581992838845527/2225877399</string>
     <string name="horde_banner">ca-app-pub-9581992838845527/7836216120</string>
     <string name="undead_banner">ca-app-pub-9581992838845527/6046112993</string>
     <string name="night_elf_banner">ca-app-pub-9581992838845527/9793786313</string>
