@@ -1490,4 +1490,18 @@
     <string name="murlocyesattack1">гайморит у мурлока</string>
     <string name="murlocyesattack2">не пошла</string>
     <string name="murlocyesattack3">сложноподчиненное предложение</string>
+
+    <string name="furbolgdeath1">Смерть</string>
+    <string name="furbolgpissed1">Урса</string>
+    <string name="furbolgpissed2">Беорн</string>
+    <string name="furbolgpissed3">Рррр</string>
+    <string name="furbolgwhat1">хрю</string>
+    <string name="furbolgwhat2">вхауу</string>
+    <string name="furbolgwhat3">урчание животика</string>
+    <string name="furbolgyes1">урррр</string>
+    <string name="furbolgyes2">р р </string>
+    <string name="furbolgyes3">уру</string>
+    <string name="furbolgyesattack1">Furbolg ррр</string>
+    <string name="furbolgyesattack2">Furbolg</string>
+    <string name="furbolgyesattack3">ГРЫЗЛИ</string>
 </resources>
