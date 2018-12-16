@@ -30,8 +30,6 @@ object UtherObject {
         add(SoundItem(drawables[i++ % drawables.size], R.raw.utheryesattack1, R.string.utheryesattack1))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.utheryesattack2, R.string.utheryesattack2))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.utheryesattack3, R.string.utheryesattack3))
-        add(SoundItem(drawables[i++ % drawables.size], R.raw.heropaladinattack1, R.string.heropaladinattack1))
-        add(SoundItem(drawables[i++ % drawables.size], R.raw.heropaladinattack2, R.string.heropaladinattack2))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.heropaladindeath, R.string.heropaladindeath))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.heropaladinpissed1, R.string.heropaladinpissed1))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.heropaladinpissed2, R.string.heropaladinpissed2))

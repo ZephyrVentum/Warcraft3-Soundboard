@@ -39,7 +39,9 @@ import ventum.zephyr.wc3soundboard.neutral.BanditObject.createBandit
 import ventum.zephyr.wc3soundboard.neutral.BristlbackObject.createBristlback
 import ventum.zephyr.wc3soundboard.neutral.CentaurObject.createCentaur
 import ventum.zephyr.wc3soundboard.neutral.FurbolgObject.createFurbolg
+import ventum.zephyr.wc3soundboard.neutral.GnollObject.createGnoll
 import ventum.zephyr.wc3soundboard.neutral.MurlocObject.createMurloc
+import ventum.zephyr.wc3soundboard.neutral.SapperObject.createSapper
 import ventum.zephyr.wc3soundboard.nightelf.ArcherObject.createArcher
 import ventum.zephyr.wc3soundboard.nightelf.ChimaeraObject.createChimaera
 import ventum.zephyr.wc3soundboard.nightelf.DruidObject.createDruid
@@ -168,6 +170,8 @@ class StartActivity : SoundboardActivity() {
             addAll(createCentaur())
             addAll(createMurloc())
             addAll(createFurbolg())
+            addAll(createGnoll())
+            addAll(createSapper())
         }, getString(R.string.neutral_banner))
 
     override fun getBlurRadius() = 8
