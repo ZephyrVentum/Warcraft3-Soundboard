@@ -30,7 +30,6 @@ object OgreObject {
         add(SoundItem(drawables[i++ % drawables.size], R.raw.ogreyes2, R.string.ogreyes2))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.ogreyes3, R.string.ogreyes3))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.ogreyes4, R.string.ogreyes4))
-        add(SoundItem(drawables[i++ % drawables.size], R.raw.ogreyesattack1, R.string.ogreyesattack1))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.ogreyesattack2, R.string.ogreyesattack2))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.ogreyesattack3, R.string.ogreyesattack3))
     }
