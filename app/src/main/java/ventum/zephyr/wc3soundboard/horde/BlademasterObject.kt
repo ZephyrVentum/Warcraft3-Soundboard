@@ -23,7 +23,6 @@ object BlademasterObject {
         add(SoundItem(drawables[i++ % drawables.size], R.raw.heroblademasterwarcry1, R.string.heroblademasterwarcry1))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.heroblademasterwhat1, R.string.heroblademasterwhat1))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.heroblademasterwhat2, R.string.heroblademasterwhat2))
-        add(SoundItem(drawables[i++ % drawables.size], R.raw.heroblademasterwhat3, R.string.heroblademasterwhat3))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.heroblademasterwhat4, R.string.heroblademasterwhat4))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.heroblademasteryes1, R.string.heroblademasteryes1))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.heroblademasteryes2, R.string.heroblademasteryes2))
