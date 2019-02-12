@@ -12,28 +12,28 @@
 
     <!-- alliance -->
     <string name="alliance_category">Альянс</string>
-    <string name="peasantbuildingcomplete1">Готово</string>
-    <string name="peasantcannotbuildthere1">Здесь нельзя строить</string>
 
-    <string name="peasantdeath">Смерть</string>
-    <string name="peasantpissed1">Ты король? А я за тебя не голосовал</string>
-    <string name="peasantpissed2">Тебя бы так</string>
-    <string name="peasantpissed3">Помогите, на меня давят</string>
-    <string name="peasantpissed4">Работа не волк</string>
-    <string name="peasantpissed5">Мы поймали ведьму</string>
-    <string name="peasantready1">Я готов</string>
-    <string name="peasantwarcry1">Ааааа</string>
-    <string name="peasantwhat1">Да господин</string>
-    <string name="peasantwhat2">Чаво?</string>
-    <string name="peasantwhat3">Опять работа?</string>
-    <string name="peasantwhat4">Да?</string>
-    <string name="peasantyes1">Угу</string>
-    <string name="peasantyes2">Хорошо</string>
-    <string name="peasantyes4">Ну, я пошел</string>
-    <string name="peasantyesattack1">Прощайте</string>
-    <string name="peasantyesattack2">Вам меня не жалко?</string>
-    <string name="peasantyesattack3">Придется драться</string>
-    <string name="peasantyesattack4">Ну вот меня убъют</string>
+    <string name="peasantbuildingcomplete1">Peasant</string>
+    <string name="peasantcannotbuildthere1">Peasant</string>
+    <string name="peasantdeath">Peasant</string>
+    <string name="peasantpissed1">Peasant</string>
+    <string name="peasantpissed2">Peasant</string>
+    <string name="peasantpissed3">Peasant</string>
+    <string name="peasantpissed4">Peasant</string>
+    <string name="peasantpissed5">Peasant</string>
+    <string name="peasantready1">Peasant</string>
+    <string name="peasantwarcry1">Peasant</string>
+    <string name="peasantwhat1">Peasant</string>
+    <string name="peasantwhat2">Peasant</string>
+    <string name="peasantwhat3">Peasant</string>
+    <string name="peasantwhat4">Peasant</string>
+    <string name="peasantyes1">Peasant</string>
+    <string name="peasantyes2">Peasant</string>
+    <string name="peasantyes4">Peasant</string>
+    <string name="peasantyesattack1">Peasant</string>
+    <string name="peasantyesattack2">Peasant</string>
+    <string name="peasantyesattack3">Peasant</string>
+    <string name="peasantyesattack4">Peasant</string>
 
     <string name="footmandeath">Footman</string>
     <string name="footmanpissed1">Footman</string>
