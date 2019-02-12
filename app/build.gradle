@@ -9,7 +9,7 @@ apply plugin: 'kotlin-kapt'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "ventum.zephyr.wc3soundboard"
+        applicationId "ventum.zephyr.wc3soundboard.eng"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 5

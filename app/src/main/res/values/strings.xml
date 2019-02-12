@@ -14,6 +14,7 @@
     <string name="alliance_category">Альянс</string>
     <string name="peasantbuildingcomplete1">Готово</string>
     <string name="peasantcannotbuildthere1">Здесь нельзя строить</string>
+
     <string name="peasantdeath">Смерть</string>
     <string name="peasantpissed1">Ты король? А я за тебя не голосовал</string>
     <string name="peasantpissed2">Тебя бы так</string>
@@ -34,24 +35,24 @@
     <string name="peasantyesattack3">Придется драться</string>
     <string name="peasantyesattack4">Ну вот меня убъют</string>
 
-    <string name="footmandeath">Смерть</string>
-    <string name="footmanpissed1">Почему я не генерал</string>
-    <string name="footmanpissed2">Мой меч - голова орка с плеч</string>
-    <string name="footmanpissed3">Обращайтесь по уставу</string>
-    <string name="footmanpissed4">Вернусь домой - убъю военкома</string>
-    <string name="footmanready1">Жду приказаний</string>
-    <string name="footmanwarcry1">За Лордерон</string>
-    <string name="footmanwhat1">Что прикажите</string>
-    <string name="footmanwhat2">Да ваше</string>
-    <string name="footmanwhat3">Как скажете</string>
-    <string name="footmanwhat4">Да ваше</string>
-    <string name="footmanyes1">Есть</string>
-    <string name="footmanyes2">Будет исполнено</string>
-    <string name="footmanyes3">Так точно</string>
-    <string name="footmanyes4">Рота подъем</string>
-    <string name="footmanyesattack1">Ура</string>
-    <string name="footmanyesattack2">В атаку</string>
-    <string name="footmanyesattack3">К оружию</string>
+    <string name="footmandeath">Footman</string>
+    <string name="footmanpissed1">Footman</string>
+    <string name="footmanpissed2">Footman</string>
+    <string name="footmanpissed3">Footman</string>
+    <string name="footmanpissed4">Footman</string>
+    <string name="footmanready1">Footman</string>
+    <string name="footmanwarcry1">Footman</string>
+    <string name="footmanwhat1">Footman</string>
+    <string name="footmanwhat2">Footman</string>
+    <string name="footmanwhat3">Footman</string>
+    <string name="footmanwhat4">Footman</string>
+    <string name="footmanyes1">Footman</string>
+    <string name="footmanyes2">Footman</string>
+    <string name="footmanyes3">Footman</string>
+    <string name="footmanyes4">Footman</string>
+    <string name="footmanyesattack1">Footman</string>
+    <string name="footmanyesattack2">Footman</string>
+    <string name="footmanyesattack3">Footman</string>
 
     <string name="riflemanattack1">Пи-х</string>
     <string name="riflemanattack2">Па-х</string>
