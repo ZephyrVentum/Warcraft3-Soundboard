@@ -27,5 +27,7 @@ object AllianceObject {
         add(SoundItem(drawables[i++ % drawables.size], R.raw.knightnolumber1, R.string.knightnolumber1))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.knighttownattack1, R.string.knighttownattack1))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.knightunitattack1, R.string.knightunitattack1))
+        add(SoundItem(drawables[i++ % drawables.size], R.raw.knightresearchcomplete1, R.string.knightresearchcomplete1))
+        add(SoundItem(drawables[i++ % drawables.size], R.raw.knightupgradecomplete1, R.string.knightupgradecomplete1))
     }
 }

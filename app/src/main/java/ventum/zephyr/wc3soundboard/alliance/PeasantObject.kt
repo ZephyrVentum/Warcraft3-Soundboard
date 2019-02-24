@@ -17,6 +17,7 @@ object PeasantObject {
     fun createPeasants() = SoundItems().apply {
         var i = 1
         add(SoundItem(drawables[i++ % drawables.size], R.raw.peasantcannotbuildthere1, R.string.peasantcannotbuildthere1))
+        add(SoundItem(drawables[i++ % drawables.size], R.raw.peasantbuildingcomplete1, R.string.peasantbuildingcomplete1))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.peasantdeath, R.string.peasantdeath))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.peasantpissed1, R.string.peasantpissed1))
         add(SoundItem(drawables[i++ % drawables.size], R.raw.peasantpissed2, R.string.peasantpissed2))

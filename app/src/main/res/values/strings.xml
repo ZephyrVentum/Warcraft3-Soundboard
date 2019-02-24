@@ -316,28 +316,28 @@
     <string name="utheryesattack2">Uther</string>
     <string name="utheryesattack3">Uther</string>
 
-    <string name="heromountainkingdeath">Uther</string>
-    <string name="heromountainkingpissed1">Uther</string>
-    <string name="heromountainkingpissed2">Uther</string>
-    <string name="heromountainkingpissed3">Uther</string>
-    <string name="heromountainkingpissed4">Uther</string>
-    <string name="heromountainkingpissed5">Uther</string>
-    <string name="heromountainkingpissed6">Uther</string>
-    <string name="heromountainkingpissed7">Uther</string>
-    <string name="heromountainkingready1">Uther</string>
-    <string name="heromountainkingwarcry1">Uther</string>
-    <string name="heromountainkingwhat1">Uther</string>
-    <string name="heromountainkingwhat2">Uther</string>
-    <string name="heromountainkingwhat3">Uther</string>
-    <string name="heromountainkingwhat4">Uther</string>
-    <string name="heromountainkingyes1">Uther</string>
-    <string name="heromountainkingyes2">Uther</string>
-    <string name="heromountainkingyes3">Uther</string>
-    <string name="heromountainkingyes4">Uther</string>
-    <string name="heromountainkingyesattack1">Uther</string>
-    <string name="heromountainkingyesattack2">Uther</string>
-    <string name="heromountainkingyesattack3">Uther</string>
-    <string name="heromountainkingyesattack4">Uther</string>
+    <string name="heromountainkingdeath">Mountain King</string>
+    <string name="heromountainkingpissed1">Mountain King</string>
+    <string name="heromountainkingpissed2">Mountain King</string>
+    <string name="heromountainkingpissed3">Mountain King</string>
+    <string name="heromountainkingpissed4">Mountain King</string>
+    <string name="heromountainkingpissed5">Mountain King</string>
+    <string name="heromountainkingpissed6">Mountain King</string>
+    <string name="heromountainkingpissed7">Mountain King</string>
+    <string name="heromountainkingready1">Mountain King</string>
+    <string name="heromountainkingwarcry1">Mountain King</string>
+    <string name="heromountainkingwhat1">Mountain King</string>
+    <string name="heromountainkingwhat2">Mountain King</string>
+    <string name="heromountainkingwhat3">Mountain King</string>
+    <string name="heromountainkingwhat4">Mountain King</string>
+    <string name="heromountainkingyes1">Mountain King</string>
+    <string name="heromountainkingyes2">Mountain King</string>
+    <string name="heromountainkingyes3">Mountain King</string>
+    <string name="heromountainkingyes4">Mountain King</string>
+    <string name="heromountainkingyesattack1">Mountain King</string>
+    <string name="heromountainkingyesattack2">Mountain King</string>
+    <string name="heromountainkingyesattack3">Mountain King</string>
+    <string name="heromountainkingyesattack4">Mountain King</string>
 
     <string name="heropaladindeath">Paladin</string>
     <string name="heropaladinpissed1">Paladin</string>
@@ -598,8 +598,10 @@
     <string name="gruntnofood1">Horde</string>
     <string name="gruntnogold1">Horde</string>
     <string name="gruntnolumber1">Horde</string>
+    <string name="gruntresearchcomplete1">Horde</string>
     <string name="grunttownattack1">Horde</string>
     <string name="gruntunitattack1">Horde</string>
+    <string name="gruntupgradecomplete1">Horde</string>
 
     <string name="thrallpissed1">Thrall</string>
     <string name="thrallpissed2">Thrall</string>
@@ -734,7 +736,7 @@
     <!-- undead -->
     <string name="undead_category">Undead</string>
 
-    <string name="acolytecannotbuildthere1">Undead</string>
+    <string name="acolytecannotbuildthere1">Acolyte</string>
     <string name="acolytedeath1">Acolyte</string>
     <string name="acolytemining">Acolyte</string>
     <string name="acolytepissed1">Acolyte</string>
