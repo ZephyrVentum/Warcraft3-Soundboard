@@ -598,10 +598,8 @@
     <string name="gruntnofood1">Horde</string>
     <string name="gruntnogold1">Horde</string>
     <string name="gruntnolumber1">Horde</string>
-    <string name="gruntresearchcomplete1">Horde</string>
     <string name="grunttownattack1">Horde</string>
     <string name="gruntunitattack1">Horde</string>
-    <string name="gruntupgradecomplete1">Horde</string>
 
     <string name="thrallpissed1">Thrall</string>
     <string name="thrallpissed2">Thrall</string>
@@ -628,7 +626,7 @@
     <string name="herofarseerpissed4">Far Seer</string>
     <string name="herofarseerpissed5">Far Seer</string>
     <string name="herofarseerready1">Far Seer</string>
-    <string name="herofarseerwarcry1">v</string>
+    <string name="herofarseerwarcry1">Far Seer</string>
     <string name="herofarseerwhat1">Far Seer</string>
     <string name="herofarseerwhat2">Far Seer</string>
     <string name="herofarseerwhat3">Far Seer</string>
