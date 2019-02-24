@@ -1,14 +1,14 @@
 <resources>
     <string name="app_name">Warcraft III Soundboard</string>
     <string name="app_label">WC3 Soundboard</string>
-    <string name="admob_interstitial_unit_id">ca-app-pub-9581992838845527/2086276590</string>
-    <string name="share_text">Look at this fun! The best soundboard ever!\nhttps://play.google.com/store/apps/details?id=ventum.zephyr.wc3soundboard</string>
-    <string name="rate_us_market">market://details?id=ventum.zephyr.wc3soundboard</string>
-    <string name="alliance_banner">ca-app-pub-9581992838845527/2225877399</string>
-    <string name="horde_banner">ca-app-pub-9581992838845527/7836216120</string>
-    <string name="undead_banner">ca-app-pub-9581992838845527/6046112993</string>
-    <string name="night_elf_banner">ca-app-pub-9581992838845527/9793786313</string>
-    <string name="neutral_banner">ca-app-pub-9581992838845527/5662969612</string>
+    <string name="admob_interstitial_unit_id">ca-app-pub-9581992838845527/8917534281</string>
+    <string name="share_text">Look at this fun! The best soundboard ever!\nhttps://play.google.com/store/apps/details?id=ventum.zephyr.wc3soundboard.eng</string>
+    <string name="rate_us_market">market://details?id=ventum.zephyr.wc3soundboard.eng</string>
+    <string name="alliance_banner">ca-app-pub-9581992838845527/3637287441</string>
+    <string name="horde_banner">ca-app-pub-9581992838845527/3501556073</string>
+    <string name="undead_banner">ca-app-pub-9581992838845527/8370739373</string>
+    <string name="night_elf_banner">ca-app-pub-9581992838845527/3992510668</string>
+    <string name="neutral_banner">ca-app-pub-9581992838845527/7866685806</string>
 
     <!-- alliance -->
     <string name="alliance_category">Alliance</string>
