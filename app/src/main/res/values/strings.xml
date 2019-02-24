@@ -580,7 +580,7 @@
     <string name="taurenwhat3">Ну что?</string>
     <string name="taurenyes1">За племя</string>
     <string name="taurenyes2">Немедленно</string>
-    <string name="taurenyes3">Растопчу</string>
+    <string name="taurenyes3">Отлично</string>
     <string name="taurenyesattack1">Смерть врагам</string>
     <string name="taurenyesattack2">Да згинет враг</string>
     <string name="taurenyesattack3">Растопчу</string>
@@ -674,7 +674,7 @@
     <string name="cairneyes1">Несомненно</string>
     <string name="cairneyes2">ИЗНУТОРА</string>
     <string name="cairneyes3">С радостью</string>
-    <string name="cairneyes4">cairneyes4</string>
+    <string name="cairneyes4">*Что-то на языке предков*</string>
     <string name="cairneyesattack1">Нэсуормэн</string>
     <string name="cairneyesattack2">Иснеалотора</string>
     <string name="cairneyesattack3">За честь и отвагу</string>
@@ -746,10 +746,10 @@
     <string name="acolytepissed6">Я избран</string>
     <string name="acolytepissed7">Хотите узнать</string>
     <string name="acolytepissed8">Ступив на путь тьмы</string>
-    <string name="acolyteready1">Желания ждут</string>
+    <string name="acolyteready1">Дела не ждут</string>
     <string name="acolytewarcry1">Я посвященный</string>
     <string name="acolytewhat1">ЖИЗНЬ ЗА НЕРЗУЛА</string>
-    <string name="acolytewhat2">Я жажду</string>
+    <string name="acolytewhat2">Я жажду служить</string>
     <string name="acolytewhat3">Чего желает мой</string>
     <string name="acolytewhat4">Где прольется моя</string>
     <string name="acolytewhat5">Склоняюсь перед</string>
@@ -845,7 +845,7 @@
     <string name="bansheepissed3">Умирать тяжело</string>
     <string name="bansheepissed4">Проблемы и это</string>
     <string name="bansheepissed5">Покой</string>
-    <string name="bansheeready1">Аколик будет нести</string>
+    <string name="bansheeready1">Мой крик будет нести</string>
     <string name="bansheewarcry1">Я жажду мщения</string>
     <string name="bansheewhat1">Ты звал меня?</string>
     <string name="bansheewhat2">Ты нарушил мой покой</string>
