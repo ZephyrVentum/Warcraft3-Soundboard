@@ -12,9 +12,11 @@ android {
         applicationId "ventum.zephyr.wc3soundboard"
         minSdkVersion 21
         targetSdkVersion 28
-        versionCode 6
-        versionName "1.0.6"
+        versionCode 7
+        versionName "1.0.7"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        resValue "string", "provider_authorities", applicationId
+
     }
     buildTypes {
         debug {
