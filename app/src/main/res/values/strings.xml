@@ -9,6 +9,7 @@
     <string name="undead_banner">ca-app-pub-9581992838845527/8370739373</string>
     <string name="night_elf_banner">ca-app-pub-9581992838845527/3992510668</string>
     <string name="neutral_banner">ca-app-pub-9581992838845527/7866685806</string>
+    <string name="naga_banner">ca-app-pub-9581992838845527/5425909629</string>
 
     <!-- alliance -->
     <string name="alliance_category">Alliance</string>
@@ -1562,4 +1563,136 @@
     <string name="goblinsapperyesattack3">Goblin Sapper</string>
     <string name="goblinsapperyesattack4">Goblin Sapper</string>
     <string name="goblinsapperyesattack5">Goblin Sapper</string>
+
+    <!-- NAGA -->
+    <string name="naga_category">Naga</string>
+
+    <string name="murgulbuildingcomplete1">Naga</string>
+    <string name="murgulcannotbuildthere1">Naga</string>
+    <string name="nagaallyherodies1">Naga</string>
+    <string name="nagaallytownattack1">Naga</string>
+    <string name="nagaallyunderattack1">Naga</string>
+    <string name="nagagoldminecollapse1">Naga</string>
+    <string name="nagagoldminelow1">Naga</string>
+    <string name="nagaherodies1">Naga</string>
+    <string name="nagainventoryfull1">Naga</string>
+    <string name="naganofood1">Naga</string>
+    <string name="naganogold1">Naga</string>
+    <string name="naganolumber1">Naga</string>
+    <string name="naganomana1">Naga</string>
+    <string name="nagaresearchcomplete1">Naga</string>
+    <string name="nagatownattack1">Naga</string>
+    <string name="nagaunitattack1">Naga</string>
+    <string name="nagaupgradecomplete1">Naga</string>
+
+    <string name="ladyvashjpissed1">Lady Vashj</string>
+    <string name="ladyvashjpissed2">Lady Vashj</string>
+    <string name="ladyvashjpissed3">Lady Vashj</string>
+    <string name="ladyvashjpissed4">Lady Vashj</string>
+    <string name="ladyvashjpissed5">Lady Vashj</string>
+    <string name="ladyvashjready1">Lady Vashj</string>
+    <string name="ladyvashjwarcry1">Lady Vashj</string>
+    <string name="ladyvashjwhat1">Lady Vashj</string>
+    <string name="ladyvashjwhat2">Lady Vashj</string>
+    <string name="ladyvashjwhat3">Lady Vashj</string>
+    <string name="ladyvashjwhat4">Lady Vashj</string>
+    <string name="ladyvashjwhat5">Lady Vashj</string>
+    <string name="ladyvashjyes1">Lady Vashj</string>
+    <string name="ladyvashjyes2">Lady Vashj</string>
+    <string name="ladyvashjyes3">Lady Vashj</string>
+    <string name="ladyvashjyes4">Lady Vashj</string>
+    <string name="ladyvashjyes5">Lady Vashj</string>
+    <string name="ladyvashjyes6">Lady Vashj</string>
+    <string name="ladyvashjyesattack1">Lady Vashj</string>
+    <string name="ladyvashjyesattack2">Lady Vashj</string>
+    <string name="ladyvashjyesattack3">Lady Vashj</string>
+
+    <string name="nagamyrmadonpissed1">Myrmadon</string>
+    <string name="nagamyrmadonpissed2">Myrmadon</string>
+    <string name="nagamyrmadonpissed3">Myrmadon</string>
+    <string name="nagamyrmadonpissed4">Myrmadon</string>
+    <string name="nagamyrmadonpissed5">Myrmadon</string>
+    <string name="nagamyrmadonpissed6">Myrmadon</string>
+    <string name="nagamyrmadonpissed7">Myrmadon</string>
+    <string name="nagamyrmadonready1">Myrmadon</string>
+    <string name="nagamyrmadonwarcry1">Myrmadon</string>
+    <string name="nagamyrmadonwhat1">Myrmadon</string>
+    <string name="nagamyrmadonwhat2">Myrmadon</string>
+    <string name="nagamyrmadonwhat3">Myrmadon</string>
+    <string name="nagamyrmadonwhat4">Myrmadon</string>
+    <string name="nagamyrmadonwhat5">Myrmadon</string>
+    <string name="nagamyrmadonyes1">Myrmadon</string>
+    <string name="nagamyrmadonyes2">Myrmadon</string>
+    <string name="nagamyrmadonyes3">Myrmadon</string>
+    <string name="nagamyrmadonyes4">Myrmadon</string>
+    <string name="nagamyrmadonyesattack1">Myrmadon</string>
+    <string name="nagamyrmadonyesattack2">Myrmadon</string>
+    <string name="nagamyrmadonyesattack3">Myrmadon</string>
+
+    <string name="nagaroyalguardpissed1">Naga Royal Guard</string>
+    <string name="nagaroyalguardpissed2">Naga Royal Guard</string>
+    <string name="nagaroyalguardpissed3">Naga Royal Guard</string>
+    <string name="nagaroyalguardpissed4">Naga Royal Guard</string>
+    <string name="nagaroyalguardpissed5">Naga Royal Guard</string>
+    <string name="nagaroyalguardpissed6">Naga Royal Guardе</string>
+    <string name="nagaroyalguardpissed7">Naga Royal Guard</string>
+    <string name="nagaroyalguardready1">Naga Royal Guard</string>
+    <string name="nagaroyalguardwarcry1">Naga Royal Guard</string>
+    <string name="nagaroyalguardwhat1">Naga Royal Guard</string>
+    <string name="nagaroyalguardwhat2">Naga Royal Guard</string>
+    <string name="nagaroyalguardwhat3">Naga Royal Guardй</string>
+    <string name="nagaroyalguardwhat4">Naga Royal Guard</string>
+    <string name="nagaroyalguardwhat5">Naga Royal Guard</string>
+    <string name="nagaroyalguardyes1">Naga Royal Guard</string>
+    <string name="nagaroyalguardyes2">Naga Royal Guard</string>
+    <string name="nagaroyalguardyes3">Naga Royal Guard</string>
+    <string name="nagaroyalguardyes4">Naga Royal Guard</string>
+    <string name="nagaroyalguardyesattack1">Naga Royal Guardх</string>
+    <string name="nagaroyalguardyesattack2">Naga Royal Guard</string>
+    <string name="nagaroyalguardyesattack3">Naga Royal Guard</string>
+
+    <string name="nagasirenpissed1">Siren</string>
+    <string name="nagasirenpissed2">Siren</string>
+    <string name="nagasirenpissed3">Siren</string>
+    <string name="nagasirenpissed4">Siren</string>
+    <string name="nagasirenpissed5">Siren</string>
+    <string name="nagasirenpissed6">Siren</string>
+    <string name="nagasirenready1">Siren</string>
+    <string name="nagasirenwarcry1">Siren</string>
+    <string name="nagasirenwhat1">Siren</string>
+    <string name="nagasirenwhat2">Siren</string>
+    <string name="nagasirenwhat3">Siren</string>
+    <string name="nagasirenwhat4">Siren</string>
+    <string name="nagasirenyes1">Siren</string>
+    <string name="nagasirenyes2">Siren</string>
+    <string name="nagasirenyes3">Siren</string>
+    <string name="nagasirenyes4">Siren</string>
+    <string name="nagasirenyes5">Siren</string>
+    <string name="nagasirenyesattack1">Siren</string>
+    <string name="nagasirenyesattack2">Siren</string>
+    <string name="nagasirenyesattack3">Siren</string>
+    <string name="sirendeath1">Siren</string>
+
+    <string name="snapdragondeath">Snapdragon</string>
+    <string name="snapdragonready1">Snapdragon</string>
+    <string name="snapdragonwhat1">Snapdragon</string>
+    <string name="snapdragonwhat2">Snapdragon</string>
+    <string name="snapdragonyes1">Snapdragon</string>
+    <string name="snapdragonyes2">Snapdragon</string>
+    <string name="snapdragonyesattack1">Snapdragon</string>
+    <string name="snapdragonyesattack2">Snapdragon</string>
+
+    <string name="giantseaturtledeath1">Turtle</string>
+    <string name="giantseaturtlewhat1">Turtle</string>
+    <string name="giantseaturtlewhat2">Turtle</string>
+    <string name="giantseaturtleyes1">Turtle</string>
+    <string name="giantseaturtleyes2">Turtle</string>
+
+    <string name="wingedserpentdeath">Wind Serpent</string>
+    <string name="wingedserpentready1">Wind Serpent</string>
+    <string name="wingedserpentwhat1">Wind Serpent</string>
+    <string name="wingedserpentwhat2">Wind Serpent</string>
+    <string name="wingedserpentyes1">Wind Serpent</string>
+    <string name="wingedserpentyes2">Wind Serpent</string>
+
 </resources>
