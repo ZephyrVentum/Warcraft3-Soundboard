@@ -35,6 +35,14 @@ import ventum.zephyr.wc3soundboard.horde.ThrallObject.createThrall
 import ventum.zephyr.wc3soundboard.horde.WitchDoctorObject.createWitchDoctor
 import ventum.zephyr.wc3soundboard.horde.WolfriderObject.createWolfrider
 import ventum.zephyr.wc3soundboard.horde.WyvernObject.createWyvern
+import ventum.zephyr.wc3soundboard.naga.LadyVashjObject.createLadyVashj
+import ventum.zephyr.wc3soundboard.naga.MyrmadonObject.createMyrmadon
+import ventum.zephyr.wc3soundboard.naga.NagaObject.createNaga
+import ventum.zephyr.wc3soundboard.naga.RoyalGuardObject.createRoyalGuard
+import ventum.zephyr.wc3soundboard.naga.SirenObject.createSiren
+import ventum.zephyr.wc3soundboard.naga.SnapdragonObject.createSnapdragon
+import ventum.zephyr.wc3soundboard.naga.TurtleObject.createTurtle
+import ventum.zephyr.wc3soundboard.naga.WindSerpentObject.createWindSerpent
 import ventum.zephyr.wc3soundboard.neutral.BanditObject.createBandit
 import ventum.zephyr.wc3soundboard.neutral.BristlbackObject.createBristlback
 import ventum.zephyr.wc3soundboard.neutral.CentaurObject.createCentaur
@@ -84,6 +92,7 @@ class StartActivity : SoundboardActivity() {
         add(createHordeCategory())
         add(createUndeadCategory())
         add(createNightElfCategory())
+        add(createNagaCategory())
         add(createNeutralCategory())
     }
 
@@ -162,17 +171,28 @@ class StartActivity : SoundboardActivity() {
             addAll(createKeeper())
         }, getString(R.string.night_elf_banner))
 
+    private fun createNagaCategory() =
+        SoundboardCategory(getString(R.string.naga_category), SoundItems().apply {
+            addAll(createNaga())
+            addAll(createMurloc())
+            addAll(createMyrmadon())
+            addAll(createRoyalGuard())
+            addAll(createSiren())
+            addAll(createSnapdragon())
+            addAll(createWindSerpent())
+            addAll(createTurtle())
+            addAll(createLadyVashj())
+        }, getString(R.string.naga_banner))
 
     private fun createNeutralCategory() =
         SoundboardCategory(getString(R.string.neutral_category), SoundItems().apply {
             addAll(createBandit())
             addAll(createBristlback())
             addAll(createCentaur())
-            addAll(createMurloc())
             addAll(createFurbolg())
             addAll(createGnoll())
             addAll(createSapper())
         }, getString(R.string.neutral_banner))
 
-    override fun getBlurRadius() = 8
+    override fun getBlurRadius() = 0
 }

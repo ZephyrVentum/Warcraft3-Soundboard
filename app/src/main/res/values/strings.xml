@@ -9,6 +9,7 @@
     <string name="undead_banner">ca-app-pub-9581992838845527/6046112993</string>
     <string name="night_elf_banner">ca-app-pub-9581992838845527/9793786313</string>
     <string name="neutral_banner">ca-app-pub-9581992838845527/5662969612</string>
+    <string name="naga_banner">ca-app-pub-9581992838845527/1219394701</string>
 
     <!-- alliance -->
     <string name="alliance_category">Альянс</string>
@@ -1561,4 +1562,136 @@
     <string name="goblinsapperyesattack3">не убегайте мы ваши</string>
     <string name="goblinsapperyesattack4">мы пришли с миром</string>
     <string name="goblinsapperyesattack5">поджигай</string>
+
+
+    <!-- NAGA -->
+    <string name="naga_category">Наги</string>
+
+    <string name="murgulbuildingcomplete1">Готово</string>
+    <string name="murgulcannotbuildthere1">Здесь нельзя строить</string>
+    <string name="nagaallyherodies1">Погиб герой наших</string>
+    <string name="nagaallytownattack1">Город наших союзников в осаде</string>
+    <string name="nagaallyunderattack1">На наших союзников</string>
+    <string name="nagagoldminecollapse1">Наш рудник иссяк</string>
+    <string name="nagagoldminelow1">Наш рудник скоро иссякнет</string>
+    <string name="nagaherodies1">Наш герой погиб</string>
+    <string name="nagainventoryfull1">Некуда класть</string>
+    <string name="naganofood1">Нужен караловый бассейн</string>
+    <string name="naganogold1">Недостаточно золота</string>
+    <string name="naganolumber1">Недостаточно древесины</string>
+    <string name="naganomana1">Недостаточно маны</string>
+    <string name="nagaresearchcomplete1">Исследование завершено</string>
+    <string name="nagatownattack1">Наш город осаждают враги</string>
+    <string name="nagaunitattack1">На нас напали</string>
+    <string name="nagaupgradecomplete1">Постройка завершена</string>
+
+    <string name="ladyvashjpissed1">Змеиный яд очень полезен</string>
+    <string name="ladyvashjpissed2">А вот хвост попрошу не трогать</string>
+    <string name="ladyvashjpissed3">Ну мой хвост ну путается</string>
+    <string name="ladyvashjpissed4">Проклятая морская вода</string>
+    <string name="ladyvashjpissed5">Хреново выглядишь</string>
+    <string name="ladyvashjready1">Я готова</string>
+    <string name="ladyvashjwarcry1">Атэрабашнас</string>
+    <string name="ladyvashjwhat1">Уже пора?</string>
+    <string name="ladyvashjwhat2">Жду с нетерпением</string>
+    <string name="ladyvashjwhat3">У нас есть дела</string>
+    <string name="ladyvashjwhat4">Положись на меня</string>
+    <string name="ladyvashjwhat5">Время не ждет смертный</string>
+    <string name="ladyvashjyes1">По твоему приказу</string>
+    <string name="ladyvashjyes2">Да</string>
+    <string name="ladyvashjyes3">Твоя воля исполнется</string>
+    <string name="ladyvashjyes4">Великолепно</string>
+    <string name="ladyvashjyes5">Во имя Азары</string>
+    <string name="ladyvashjyes6">Исполняю</string>
+    <string name="ladyvashjyesattack1">Им не уйти</string>
+    <string name="ladyvashjyesattack2">Мой яд смертелен</string>
+    <string name="ladyvashjyesattack3">В бой</string>
+
+    <string name="nagamyrmadonpissed1">Пресмыкаться тоже нужно уметь</string>
+    <string name="nagamyrmadonpissed2">Если я ядовитый то мне конец</string>
+    <string name="nagamyrmadonpissed3">Нам 10к лет</string>
+    <string name="nagamyrmadonpissed4">Кобра? ( ͡° ͜ʖ ͡°)</string>
+    <string name="nagamyrmadonpissed5">Пора впадать в спячку</string>
+    <string name="nagamyrmadonpissed6">Что-то холодно стало</string>
+    <string name="nagamyrmadonpissed7">Если хочешь миром править</string>
+    <string name="nagamyrmadonready1">Я пришел из морских глубин</string>
+    <string name="nagamyrmadonwarcry1">За Наж\'ятар</string>
+    <string name="nagamyrmadonwhat1">Да сухопутный</string>
+    <string name="nagamyrmadonwhat2">Слушаю</string>
+    <string name="nagamyrmadonwhat3">Кто станет жертвой</string>
+    <string name="nagamyrmadonwhat4">Укажи мне путь</string>
+    <string name="nagamyrmadonwhat5">Я жду</string>
+    <string name="nagamyrmadonyes1">Как прикажешь</string>
+    <string name="nagamyrmadonyes2">Во славу Азары</string>
+    <string name="nagamyrmadonyes3">Слушаюсь</string>
+    <string name="nagamyrmadonyes4">Будет исполнено</string>
+    <string name="nagamyrmadonyesattack1">В бой!</string>
+    <string name="nagamyrmadonyesattack2">Смерть землекопам</string>
+    <string name="nagamyrmadonyesattack3">Им не уйти</string>
+
+    <string name="nagaroyalguardpissed1">Прекрати щелкать</string>
+    <string name="nagaroyalguardpissed2">Ты мне своим курсором</string>
+    <string name="nagaroyalguardpissed3">Мы змеи такие загадочные</string>
+    <string name="nagaroyalguardpissed4">В глубоком подземелье</string>
+    <string name="nagaroyalguardpissed5">Кажется мне вода попала в ухо</string>
+    <string name="nagaroyalguardpissed6">Наши солдаты уже</string>
+    <string name="nagaroyalguardpissed7">Вот сброшу свою старую шкуру</string>
+    <string name="nagaroyalguardready1">Я пришел в след за приливом</string>
+    <string name="nagaroyalguardwarcry1">За Наж\'ятар</string>
+    <string name="nagaroyalguardwhat1">Слушаю</string>
+    <string name="nagaroyalguardwhat2">Жду приказаний</string>
+    <string name="nagaroyalguardwhat3">Веди меня в бой</string>
+    <string name="nagaroyalguardwhat4">Да свершится месть</string>
+    <string name="nagaroyalguardwhat5">Не заставляй меня ждать</string>
+    <string name="nagaroyalguardyes1">Будет исполнено</string>
+    <string name="nagaroyalguardyes2">Слушаюсь</string>
+    <string name="nagaroyalguardyes3">Как прикажешь</string>
+    <string name="nagaroyalguardyes4">Во имя Азары</string>
+    <string name="nagaroyalguardyesattack1">Уничтожить всех</string>
+    <string name="nagaroyalguardyesattack2">Смерть сухопутным</string>
+    <string name="nagaroyalguardyesattack3">Сухопутные крысы</string>
+
+    <string name="nagasirenpissed1">Это мы то ползаем</string>
+    <string name="nagasirenpissed2">Как тебе нравится</string>
+    <string name="nagasirenpissed3">Ты это серьезно</string>
+    <string name="nagasirenpissed4">Я тебе нравлюсь</string>
+    <string name="nagasirenpissed5">Один змеелов</string>
+    <string name="nagasirenpissed6">А может быть</string>
+    <string name="nagasirenready1">Слушай песню морских волн</string>
+    <string name="nagasirenwarcry1">nagasirenwarcry1</string>
+    <string name="nagasirenwhat1">Во имя Азары</string>
+    <string name="nagasirenwhat2">Хочешь спою</string>
+    <string name="nagasirenwhat3">Не бойся</string>
+    <string name="nagasirenwhat4">Жду</string>
+    <string name="nagasirenyes1">Во славу моря</string>
+    <string name="nagasirenyes2">Уже иду</string>
+    <string name="nagasirenyes3">*Нагский*</string>
+    <string name="nagasirenyes4">Ясн</string>
+    <string name="nagasirenyes5">Есть</string>
+    <string name="nagasirenyesattack1">Умри</string>
+    <string name="nagasirenyesattack2">Получай</string>
+    <string name="nagasirenyesattack3">Умри сухопутный</string>
+    <string name="sirendeath1">Смерть</string>
+
+    <string name="snapdragondeath">Морской Дракон</string>
+    <string name="snapdragonready1">Морской Дракон</string>
+    <string name="snapdragonwhat1">Морской Дракон</string>
+    <string name="snapdragonwhat2">Морской Дракон</string>
+    <string name="snapdragonyes1">Морской Дракон</string>
+    <string name="snapdragonyes2">Морской Дракон</string>
+    <string name="snapdragonyesattack1">Морской Дракон</string>
+    <string name="snapdragonyesattack2">Морской Дракон</string>
+
+    <string name="giantseaturtledeath1">Черепаха</string>
+    <string name="giantseaturtlewhat1">Черепаха</string>
+    <string name="giantseaturtlewhat2">Черепаха</string>
+    <string name="giantseaturtleyes1">Черепаха</string>
+    <string name="giantseaturtleyes2">Черепаха</string>
+
+    <string name="wingedserpentdeath">Коатль</string>
+    <string name="wingedserpentready1">Коатль</string>
+    <string name="wingedserpentwhat1">Коатль</string>
+    <string name="wingedserpentwhat2">Коатль</string>
+    <string name="wingedserpentyes1">Коатль</string>
+    <string name="wingedserpentyes2">Коатль</string>
 </resources>
