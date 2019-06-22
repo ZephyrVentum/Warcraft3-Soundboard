@@ -52,9 +52,12 @@ import ventum.zephyr.wc3soundboard.naga.SnapdragonObject.createSnapdragon
 import ventum.zephyr.wc3soundboard.naga.TurtleObject.createTurtle
 import ventum.zephyr.wc3soundboard.naga.WindSerpentObject.createWindSerpent
 import ventum.zephyr.wc3soundboard.neutral.AkamaObject.createAkama
+import ventum.zephyr.wc3soundboard.neutral.AlchemistObject.createAlchemist
+import ventum.zephyr.wc3soundboard.neutral.AnimalObject.createAnimal
 import ventum.zephyr.wc3soundboard.neutral.BanditObject.createBandit
 import ventum.zephyr.wc3soundboard.neutral.BristlbackObject.createBristlback
 import ventum.zephyr.wc3soundboard.neutral.CentaurObject.createCentaur
+import ventum.zephyr.wc3soundboard.neutral.FirelordObject.createFirelord
 import ventum.zephyr.wc3soundboard.neutral.FurbolgObject.createFurbolg
 import ventum.zephyr.wc3soundboard.neutral.GnollObject.createGnoll
 import ventum.zephyr.wc3soundboard.neutral.KidObject.createKid
@@ -64,7 +67,9 @@ import ventum.zephyr.wc3soundboard.neutral.PitLordObject.createPitLord
 import ventum.zephyr.wc3soundboard.neutral.RexxarObject.createRexxar
 import ventum.zephyr.wc3soundboard.neutral.SapperObject.createSapper
 import ventum.zephyr.wc3soundboard.neutral.SuccubusObject.createSuccubus
+import ventum.zephyr.wc3soundboard.neutral.TechiesObject.createTechies
 import ventum.zephyr.wc3soundboard.neutral.TraxesObject.createTraxes
+import ventum.zephyr.wc3soundboard.neutral.VillageManObject.createVillageMan
 import ventum.zephyr.wc3soundboard.neutral.ZeppelinObject.createZeppelin
 import ventum.zephyr.wc3soundboard.nightelf.ArcherObject.createArcher
 import ventum.zephyr.wc3soundboard.nightelf.ChimaeraObject.createChimaera
@@ -244,5 +249,10 @@ class StartActivity : SoundboardActivity() {
             addAll(createRexxar())
             addAll(createTraxes())
             addAll(createKid())
+            addAll(createAlchemist())
+            addAll(createFirelord())
+            addAll(createTechies())
+            addAll(createVillageMan())
+            addAll(createAnimal())
         }, getString(R.string.neutral_banner))
 }

@@ -126,7 +126,7 @@
     <string name="priestwhat2">Да мой друг</string>
     <string name="priestwhat3">Чем могу помочь</string>
     <string name="priestwhat4">Кто-нибудь ранен?</string>
-    <string name="priestyes1">Повинусь</string>
+    <string name="priestyes1">Повинуюсь</string>
     <string name="priestyes2">Да будет так</string>
     <string name="priestyes3">Ваша воля</string>
     <string name="priestyes4">Приступаю</string>
@@ -211,7 +211,7 @@
     <string name="gyrocopteryesattack1">Это вам от меня</string>
     <string name="gyrocopteryesattack2">Вижу цель</string>
     <string name="gyrocopteryesattack3">Получай</string>
-    <string name="gyrocopteryesattack4">Агооонь</string>
+    <string name="gyrocopteryesattack4">Огоооонь…</string>
 
     <string name="gryphonriderdeath1">Смерть</string>
     <string name="gryphonriderpissed1">Что судишь обо мне</string>
@@ -369,7 +369,7 @@
     <string name="heroarchmagewarcry1">За славой</string>
     <string name="heroarchmagewhat1">Нужна моя помощь?</string>
     <string name="heroarchmagewhat2">Что вам угодно?</string>
-    <string name="heroarchmagewhat3">Нуже приказывайте</string>
+    <string name="heroarchmagewhat3">Ну же, приказывайте</string>
     <string name="heroarchmagewhat4">Да</string>
     <string name="heroarchmageyes1">Будет исполнено</string>
     <string name="heroarchmageyes2">Превосходно</string>
@@ -420,7 +420,7 @@
     <string name="spellbreakerpissed3">Я украл его прелесть</string>
     <string name="spellbreakerpissed4">Хорошая магия, крепкая</string>
     <string name="spellbreakerpissed5">Кто к нам с мечом придет</string>
-    <string name="spellbreakerready1">Мне подвласна магия</string>
+    <string name="spellbreakerready1">Мне подвластна магия</string>
     <string name="spellbreakerwarcry1">Эндинадор</string>
     <string name="spellbreakerwhat1">Время не ждет</string>
     <string name="spellbreakerwhat2">Быстрее</string>
@@ -482,7 +482,7 @@
     <string name="bloodelfengineerwhat1">Ты мешаешь мне думать</string>
     <string name="bloodelfengineerwhat2">Не успеешь и глазом моргнуть</string>
     <string name="bloodelfengineerwhat3">3х^3 + С</string>
-    <string name="bloodelfengineerwhat4">Извени, что?</string>
+    <string name="bloodelfengineerwhat4">Извини, что?</string>
     <string name="bloodelfengineeryes1">В чертежах этого не было</string>
     <string name="bloodelfengineeryes2">Не лучший вариант</string>
     <string name="bloodelfengineeryes3">Что ж начальник всегда прав</string>
@@ -539,7 +539,7 @@
     <string name="garithospissed5">Эльфам нет веры</string>
     <string name="garithosready1">Во славу людей</string>
     <string name="garithoswarcry1">За Теренаса</string>
-    <string name="garithoswhat1">Ненавижу глупцев</string>
+    <string name="garithoswhat1">Ненавижу глупцов</string>
     <string name="garithoswhat2">Человечество в опасности</string>
     <string name="garithoswhat3">Доверять можно только людям</string>
     <string name="garithoswhat4">Нам нужно торопиться</string>
@@ -549,7 +549,7 @@
     <string name="garithosyes4">Прекрасно</string>
     <string name="garithosyes5">Ээ наконец-то</string>
     <string name="garithosyesattack1">Во имя человечества</string>
-    <string name="garithosyesattack2">ЗДОХНИ</string>
+    <string name="garithosyesattack2">СДОХНИ</string>
     <string name="garithosyesattack3">БЕЙ НЕЛЮДЕЙ</string>
 
     <!-- horde -->
@@ -559,7 +559,7 @@
     <string name="peondeath">Смерть</string>
     <string name="peonjobdone">Дело сделано</string>
     <string name="peonpissed1">Чаво</string>
-    <string name="peonpissed2">Не мешая я занят</string>
+    <string name="peonpissed2">Не мешай, я занят</string>
     <string name="peonpissed3">Нет времени</string>
     <string name="peonpissed4">Ты меня с кем-то путаешь</string>
     <string name="peonready1">Готов вкалывать</string>
@@ -768,7 +768,7 @@
     <string name="taurenyes2">Немедленно</string>
     <string name="taurenyes3">Отлично</string>
     <string name="taurenyesattack1">Смерть врагам</string>
-    <string name="taurenyesattack2">Да згинет враг</string>
+    <string name="taurenyesattack2">Да сгинет враг</string>
     <string name="taurenyesattack3">Растопчу</string>
 
     <string name="altarofstormswhat1">Алтарь</string>
@@ -848,7 +848,7 @@
     <string name="herotaurenchieftainyesattack3">ОНИ НЕ ПРОЙДУТ</string>
 
     <string name="cairnepissed1">Когда же кончится</string>
-    <string name="cairnepissed2">Не легко сейчас</string>
+    <string name="cairnepissed2">Нелегко сейчас юному вождю</string>
     <string name="cairnepissed3">Мать земля верит</string>
     <string name="cairnepissed4">Я горжусь своим</string>
     <string name="cairnepissed5">Силы не оставят меня</string>
@@ -860,10 +860,10 @@
     <string name="cairneyes1">Несомненно</string>
     <string name="cairneyes2">ИЗНУТОРА</string>
     <string name="cairneyes3">С радостью</string>
-    <string name="cairneyes4">*Что-то на языке предков*</string>
-    <string name="cairneyesattack1">Нэсуормэн</string>
-    <string name="cairneyesattack2">Иснеалотора</string>
-    <string name="cairneyesattack3">За честь и отвагу</string>
+    <string name="cairneyes4">Нэсуормэн</string>
+    <string name="cairneyesattack1">Иснеалотора</string>
+    <string name="cairneyesattack2">За честь и отвагу</string>
+    <string name="cairneyesattack3">В атаку</string>
     <string name="cairneyesattack4">Умри достойно</string>
 
     <string name="ogredeath1">Смерть</string>
@@ -973,7 +973,7 @@
     <string name="acolytedeath1">Смерть</string>
     <string name="acolytemining">УбегайЛабДабДибаДубай</string>
     <string name="acolytepissed1">Настал час тьмы</string>
-    <string name="acolytepissed2">Смерть отчистит этот мир</string>
+    <string name="acolytepissed2">Смерть очистит этот мир</string>
     <string name="acolytepissed3">Я вижу великую тьму</string>
     <string name="acolytepissed4">Слабые захлебнутся</string>
     <string name="acolytepissed5">Однажды я стану</string>
@@ -1019,7 +1019,7 @@
     <string name="cryptfiendpissed4">А мою нижнюю половину</string>
     <string name="cryptfiendpissed5">Лучше переесть чем</string>
     <string name="cryptfiendpissed6">Даже если вас съели</string>
-    <string name="cryptfiendpissed7">Разденный ползать</string>
+    <string name="cryptfiendpissed7">Рождённый ползать упасть не может</string>
     <string name="cryptfiendready1">Спящий пробудился</string>
     <string name="cryptfiendwarcry1">Склонитесь перед Плетью</string>
     <string name="cryptfiendwhat1">Приступаем</string>
@@ -1342,7 +1342,7 @@
     <string name="nerubiancryptlordyesattack3">Им не уйти от меня</string>
 
     <string name="varimathraspissed1">Люблю когда наши</string>
-    <string name="varimathraspissed2">Извените я не даю</string>
+    <string name="varimathraspissed2">Извините, я не даю интервью</string>
     <string name="varimathraspissed3">И не какие мы не</string>
     <string name="varimathraspissed4">Я с удовольствием</string>
     <string name="varimathraspissed5">Я всегда победителей</string>
@@ -1389,7 +1389,7 @@
     <string name="archerpissed4">Свои враги</string>
     <string name="archerpissed5">Благородный</string>
     <string name="archerpissed6">Между прочим</string>
-    <string name="archerpissed7">интим не предлогать</string>
+    <string name="archerpissed7">интим не предлагать</string>
     <string name="archerpissed8">не резинка от трусов</string>
     <string name="archerready1">Я готова</string>
     <string name="archerwarcry1">Во имя лунного света</string>
@@ -1958,7 +1958,7 @@
     <string name="gnollyesattack3">из далека</string>
 
     <string name="goblinsapperdeath1">Смерть</string>
-    <string name="goblinsapperpissed1">Ты чтоли наш</string>
+    <string name="goblinsapperpissed1">Ты что ли наш папа?</string>
     <string name="goblinsapperpissed2">Эт не я и не я</string>
     <string name="goblinsapperpissed3">Где мини-карта?</string>
     <string name="goblinsapperpissed4">Никому не двигаться</string>
@@ -2010,7 +2010,7 @@
     <string name="succubusready1">Правда я красивая?</string>
     <string name="succubuswarcry1">Выцарапать им глазки</string>
     <string name="succubuswhat1">Как ты милый?</string>
-    <string name="succubuswhat2">Ну же, зайчки!</string>
+    <string name="succubuswhat2">Ну же, зайчик!</string>
     <string name="succubuswhat3">Я не кусаюсь</string>
     <string name="succubuswhat4">Не стесняйся</string>
     <string name="succubusyes1">Ооо это хорошо</string>
@@ -2102,7 +2102,7 @@
     <string name="hpitlordwhat1">Трепещи, смертный</string>
     <string name="hpitlordwhat2">Что? Боишься?</string>
     <string name="hpitlordwhat3">У меня нет времени</string>
-    <string name="hpitlordwhat4">ПАДИНИЦ</string>
+    <string name="hpitlordwhat4">ПАДИ НИЦ</string>
     <string name="hpitlordwhat5">Что ты задумал?</string>
     <string name="hpitlordyes1">Не лучший выбор</string>
     <string name="hpitlordyes2">Так и быть</string>
@@ -2235,7 +2235,7 @@
     <string name="nagaroyalguardpissed5">Кажется мне вода попала в ухо</string>
     <string name="nagaroyalguardpissed6">Наши солдаты уже</string>
     <string name="nagaroyalguardpissed7">Вот сброшу свою старую шкуру</string>
-    <string name="nagaroyalguardready1">Я пришел в след за приливом</string>
+    <string name="nagaroyalguardready1">Я пришел вслед за приливом</string>
     <string name="nagaroyalguardwarcry1">За Наж\'ятар</string>
     <string name="nagaroyalguardwhat1">Слушаю</string>
     <string name="nagaroyalguardwhat2">Жду приказаний</string>
@@ -2265,7 +2265,7 @@
     <string name="nagasirenyes1">Во славу моря</string>
     <string name="nagasirenyes2">Уже иду</string>
     <string name="nagasirenyes3">Ашбалантрей</string>
-    <string name="nagasirenyes4">Ясн</string>
+    <string name="nagasirenyes4">Ясно</string>
     <string name="nagasirenyes5">Есть</string>
     <string name="nagasirenyesattack1">Умри</string>
     <string name="nagasirenyesattack2">Получай</string>
@@ -2293,4 +2293,83 @@
     <string name="wingedserpentwhat2">Коатль</string>
     <string name="wingedserpentyes1">Коатль</string>
     <string name="wingedserpentyes2">Коатль</string>
+
+    <string name="file00000356">Алхимик</string>
+    <string name="file00000357">Смерть</string>
+    <string name="file00000663">И солнце ярче блещет</string>
+    <string name="file00000664">Сгинь нечистая сила</string>
+    <string name="file00000665">Эй, осторожно!</string>
+    <string name="file00000666">Странный запах у этого эликсира</string>
+    <string name="file00000667">Эта штука будет посильнее</string>
+    <string name="file00000668">Ой, что это я уронил?</string>
+    <string name="file00000669">Свинец обратится в золото</string>
+    <string name="file00000670">Тому кто больше платит</string>
+    <string name="file00000671">Что взорвать?</string>
+    <string name="file00000672">Я готов</string>
+    <string name="file00000673">За философским камнем</string>
+    <string name="file00000674">Опробуем новый состав</string>
+    <string name="file00000675">Ладно</string>
+    <string name="file00000676">Сейчас по щебечем</string>
+    <string name="file00000677">Не мешай</string>
+    <string name="file00000678">Просто как H2O</string>
+    <string name="file00000679">Всего один эликсир</string>
+    <string name="file00000680">Взрываю!</string>
+    <string name="file00000681">Они не любили алхимию</string>
+
+    <string name="file00000644">Взвейтесь кострами синие ночи</string>
+    <string name="file00000645">Ненавижу мотыльков</string>
+    <string name="file00000646">Гори оно всё синим пламенем</string>
+    <string name="file00000647">Правда я горячий парень?</string>
+    <string name="file00000648">Не играй с огнем</string>
+    <string name="file00000649">Воды…</string>
+    <string name="file00000650">Я повелитель огня</string>
+    <string name="file00000651">Я повелитель огня (2)</string>
+    <string name="file00000652">Всех сожгу</string>
+    <string name="file00000653">Слушаю</string>
+    <string name="file00000654">Говори</string>
+    <string name="file00000655">Огонь моя стихия</string>
+    <string name="file00000656">Непременно</string>
+    <string name="file00000657">Да будет так</string>
+    <string name="file00000658">Слушаюсь</string>
+    <string name="file00000659">Будет исполнено</string>
+    <string name="file00000660">Сожгу</string>
+    <string name="file00000661">Все поглотит огонь</string>
+    <string name="file00000662">Испепелю</string>
+    <string name="firelorddeath">Смерть</string>
+
+    <string name="file00000362">Смерть</string>
+    <string name="file00000364">Трансформация</string>
+    <string name="file00000682">Нам разум дал стальные руки-крылья</string>
+    <string name="file00000683">Я мастер на все руки</string>
+    <string name="file00000684">Ноль фаза, какая разница</string>
+    <string name="file00000685">Эта штука не развалится</string>
+    <string name="file00000686">Быстро и дешево выполню</string>
+    <string name="file00000687">Так, где там был запасной</string>
+    <string name="file00000688">Не нравится мне этот звук</string>
+    <string name="file00000689">На меня иногда</string>
+    <string name="file00000690">Я мастер на все руки</string>
+    <string name="file00000691">Вхаахах</string>
+    <string name="file00000692">Че там у тебя?</string>
+    <string name="file00000693">К старту готов</string>
+    <string name="file00000694">Обороты в норме</string>
+    <string name="file00000695">Эти все в норме </string>
+    <string name="file00000696">Поехали</string>
+    <string name="file00000697">Выполняю</string>
+    <string name="file00000698">Это по мне</string>
+    <string name="file00000699">Отлично</string>
+    <string name="file00000700">Ключ на старт</string>
+    <string name="file00000701">Цель захвачена</string>
+    <string name="file00000702">10 секунд до взрыва</string>
+    <string name="file00000703">Хааа-ха-хаа</string>
+
+    <string name="villagerm1">Добро пожаловать</string>
+    <string name="villagerm2">Приветствую вас</string>
+    <string name="villagerm3">Что нового?</string>
+    <string name="villagermaledeath1">Смерть</string>
+
+    <string name="ratwhat1">Мышь</string>
+    <string name="ratwhat2">(Крадется)</string>
+    <string name="skinkdeath1">Сцинк</string>
+    <string name="skinkwhat1">Сцинк</string>
+    <string name="skinkwhat2">Сцинк</string>
 </resources>
