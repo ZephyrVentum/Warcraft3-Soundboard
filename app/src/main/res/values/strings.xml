@@ -2352,7 +2352,7 @@
     <string name="file00000692">Че там у тебя?</string>
     <string name="file00000693">К старту готов</string>
     <string name="file00000694">Обороты в норме</string>
-    <string name="file00000695">Эти все в норме </string>
+    <string name="file00000695">Все системы в норме</string>
     <string name="file00000696">Поехали</string>
     <string name="file00000697">Выполняю</string>
     <string name="file00000698">Это по мне</string>
@@ -2372,4 +2372,27 @@
     <string name="skinkdeath1">Сцинк</string>
     <string name="skinkwhat1">Сцинк</string>
     <string name="skinkwhat2">Сцинк</string>
+
+    <string name="foresttrolldeath">Смерть</string>
+    <string name="foresttrollpissed1">*по синьке*</string>
+    <string name="foresttrollpissed2">Быть или не быть</string>
+    <string name="foresttrollpissed3">Вот в чем вопрос</string>
+    <string name="foresttrollpissed4">Угу</string>
+    <string name="foresttrollpissed5">Ростовщик?</string>
+    <string name="foresttrollpissed6">Еще раз тронешь - убью!</string>
+    <string name="foresttrollready1">Пора убивать</string>
+    <string name="foresttrollshadowpriestdeath1">Смерть</string>
+    <string name="foresttrollwarcry1">Зашибу</string>
+    <string name="foresttrollwhat1">Че надо?</string>
+    <string name="foresttrollwhat2">Видишь мой топор?</string>
+    <string name="foresttrollwhat3">Кого убить?</string>
+    <string name="foresttrollwhat4">Я здесь</string>
+    <string name="foresttrollyes1">Мне это нравится</string>
+    <string name="foresttrollyes2">Бэээээ</string>
+    <string name="foresttrollyes3">Сделаю</string>
+    <string name="foresttrollyes4">Угу</string>
+    <string name="foresttrollyesattack1">Убью</string>
+    <string name="foresttrollyesattack2">Blue Water</string>
+    <string name="foresttrollyesattack3">Опа… чирик!</string>
+    <string name="foresttrollyesattack4">Буду бить!</string>
 </resources>

@@ -58,6 +58,7 @@ import ventum.zephyr.wc3soundboard.neutral.BanditObject.createBandit
 import ventum.zephyr.wc3soundboard.neutral.BristlbackObject.createBristlback
 import ventum.zephyr.wc3soundboard.neutral.CentaurObject.createCentaur
 import ventum.zephyr.wc3soundboard.neutral.FirelordObject.createFirelord
+import ventum.zephyr.wc3soundboard.neutral.ForestTrollObject.createForestTroll
 import ventum.zephyr.wc3soundboard.neutral.FurbolgObject.createFurbolg
 import ventum.zephyr.wc3soundboard.neutral.GnollObject.createGnoll
 import ventum.zephyr.wc3soundboard.neutral.KidObject.createKid
@@ -254,5 +255,6 @@ class StartActivity : SoundboardActivity() {
             addAll(createTechies())
             addAll(createVillageMan())
             addAll(createAnimal())
+            addAll(createForestTroll())
         }, getString(R.string.neutral_banner))
 }

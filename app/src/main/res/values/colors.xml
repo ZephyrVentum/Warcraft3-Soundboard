@@ -6,4 +6,5 @@
 
     <color name="toolbar_items_color">#DEFCFF</color>
     <color name="item_text_color">#DEFCFF</color>
+    <color name="bg_tint_color">#66000000</color>
 </resources>
