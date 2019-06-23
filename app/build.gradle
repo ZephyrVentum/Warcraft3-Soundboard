@@ -16,7 +16,6 @@ android {
         versionName "1.1.1"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         resValue "string", "provider_authorities", applicationId
-        multiDexEnabled true
     }
     buildTypes {
         debug {
@@ -48,9 +47,6 @@ android {
     kapt {
         generateStubs = true
     }
-    dexOptions {
-        preDexLibraries false
-    }
 }
 
 dependencies {
@@ -66,7 +62,6 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
     implementation 'com.google.android.gms:play-services-ads:18.0.0'
 
-    implementation 'com.android.support:multidex:1.0.3'
     implementation 'com.makeramen:roundedimageview:2.3.0'
 
     testImplementation 'junit:junit:4.12'
