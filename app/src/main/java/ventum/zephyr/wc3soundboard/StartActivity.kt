@@ -245,6 +245,4 @@ class StartActivity : SoundboardActivity() {
             addAll(createTraxes())
             addAll(createKid())
         }, getString(R.string.neutral_banner))
-
-    override fun getBlurRadius() = 0
 }
